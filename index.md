@@ -1,6 +1,6 @@
 ## **Proposal: Unbundling Marriage into Modular Civil Contracts**
 
-**Author**: Abdul Haq\* and ChatGPT
+**Authors**: Abdul Haq\* and ChatGPT
 **Date**: May 2025
 
 ---
